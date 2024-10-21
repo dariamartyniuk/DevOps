@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/multi-stage-build.iml" filepath="$PROJECT_DIR$/.idea/multi-stage-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prometheus-grafana.iml" filepath="$PROJECT_DIR$/.idea/prometheus-grafana.iml" />
     </modules>
   </component>
 </project>
